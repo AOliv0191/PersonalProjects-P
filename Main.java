@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -24,3 +25,6 @@ public class Main extends Application {
         launch(args);
     }
 }
+=======
+
+>>>>>>> 7164c2958de5cd788ebdc63d15db97eb239b55c4
